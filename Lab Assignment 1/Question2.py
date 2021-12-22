@@ -62,5 +62,3 @@ addedge(6,9,630)  #ParkingLot->Mada
 source = 0
 target = 6
 best_first_search(source, target, v)
-
-# This code is contributed by Jyotheeswar Ganne
